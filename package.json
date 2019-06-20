@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.6.0",
     "needle": "^2.4.0",
     "tress": "^1.1.4"
   }
