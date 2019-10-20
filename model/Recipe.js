@@ -17,9 +17,3 @@ const addRecipe = (recipe) =>{
 module.exports = {
   addRecipe,
 };
-
-// вклад в проект, пройденные менторинги, что хочу в себе улучшить, ближайшие цели
-// за это время я успел поработать над тикими-то проектами не хватает таких-то скилов
-// https://videoportal.epam.com/video/8JYkgGod
-// https://kb.epam.com/display/EPMRVM/Quarterly+Performance+Feedback
-// AskFeedback@epam.com
